@@ -1,0 +1,102 @@
+/* button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: rgb(250, 53, 53);
+  font-weight: bold;
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  background-color: blue;
+} */
+
+/* Blackjack game */
+/*
+h1 {
+  color: goldenrod;
+}
+
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-image: url(download.jpg);
+  background-size: cover;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  color: #016f32;
+  width: 150px;
+  background: goldenrod;
+  padding-top: 5px;
+  padding: 5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+*/
+
+/*
+#apple-shelf {
+  background: red;
+  border-radius: 6px;
+}
+*/
+
+body {
+  margin: 0px;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 400px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #5f9341;
+  margin-bottom: 4px;
+}
+button {
+  background: #5f9341;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  font-weight: bold;
+}
+
+ul {
+  margin-top: 20px;
+  list-style: none;
+  padding-left: 0px;
+}
+
+li {
+  margin-top: 5px;
+}
+
+a {
+  color: #5f9341;
+}
+
+#delete-btn {
+  border: 1px solid #5f9341;
+  background-color: white;
+  padding: 10px 20px;
+  font-weight: bold;
+  color: #5f9341;
+}
+
+/* div {
+  background-color: tomato;
+  width: 100%;
+  height: 68px;
+} */
